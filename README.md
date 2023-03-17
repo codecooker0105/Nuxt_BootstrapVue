@@ -8,7 +8,7 @@
 ### Installation
 1. Clone this repository:
 ```
-git clone https://github.com/GlobalStar1115/datacose_challenge.git
+git clone https://github.com/codecooker0105/Nuxt_BootstrapVue.git
 ```
 
 2. Install the dependencies:
